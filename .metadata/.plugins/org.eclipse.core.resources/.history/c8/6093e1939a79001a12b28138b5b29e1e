@@ -1,0 +1,38 @@
+package com.algaworks.resource;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.algaworks.model.Categoria;
+import com.algaworks.repository.CategoriaRepository;
+
+@RestController
+@RequestMapping("/categorias")
+public class CategoriaController {
+	
+	@Autowired
+	private CategoriaRepository categoriaRepository;
+	
+	@GetMapping
+	public List<Categoria> listar() {
+		return categoriaRepository.findAll();
+	}
+	
+	
+	/*
+	@GetMapping
+	public ResponseEntity<?> listar() {
+		// code 200 (ok) ou code 204 (no content found)
+		List<Categoria> listaCategoria = categoriaRepository.findAll();
+		return !listaCategoria.isEmpty() ? ResponseEntity.ok(listaCategoria) : ResponseEntity.noContent().build();
+	}
+	 
+	 * 
+	 */
+	
+	
+}

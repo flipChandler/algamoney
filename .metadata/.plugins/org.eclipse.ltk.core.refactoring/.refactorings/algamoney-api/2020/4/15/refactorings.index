@@ -1,0 +1,10 @@
+1586321254362	Rename compilation unit 'CategoriaResource.java'
+1586351579074	Delete elements
+1586361578790	Rename package 'com.algaworks.resource'
+1586398454464	Copy file
+1586437178761	Extract method 'adicionarHeaderLocation'
+1586478937243	Delete element
+1586481832669	Extract method 'buscarPessoaPeloCodigo'
+1586527495504	Copy file
+1586528204262	Rename resource 'V03__criar_tabela_lancamento.sql'
+1586569849944	Rename type 'PessoaInexistentOouInativaException'

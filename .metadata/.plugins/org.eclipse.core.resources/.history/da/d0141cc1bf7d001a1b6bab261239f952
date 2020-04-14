@@ -1,0 +1,5 @@
+package com.algaworks.repository.filter;
+
+public class LancamentoFilter {
+
+}

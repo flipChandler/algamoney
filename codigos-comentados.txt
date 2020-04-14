@@ -1,0 +1,17 @@
+CODIGOS COMENTADOS
+
+CLASSE -> AlgamoneyExceptionHandler
+
+
+/* 	TRATAR O ERRO DE PARAMETROS QUE NÃO EXISTEM NA CLASSE JAVA 
+	@Override
+	protected ResponseEntity<Object> handleHttpMessageNotReadable(HttpMessageNotReadableException ex,
+			HttpHeaders headers, HttpStatus status, WebRequest request) {
+		
+		String mensagemUsuario = messageSource.getMessage("mensagem.invalida", null, LocaleContextHolder.getLocale());
+		String mensagemDesenvolvedor = ex.getCause() != null ? ex.getCause().toString() : ex.toString();
+		List<Erro> listaErros = Arrays.asList(new Erro(mensagemUsuario, mensagemDesenvolvedor));
+		
+		return handleExceptionInternal(ex, listaErros, headers, HttpStatus.BAD_REQUEST, request);
+	} 	
+*/

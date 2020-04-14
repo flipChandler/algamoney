@@ -1,0 +1,31 @@
+CREATE TABLE pessoa (
+	codigo BIGINT(20) PRIMARY KEY AUTO_INCREMENT,
+	nome VARCHAR(50) NOT NULL,
+	ativo BOOLEAN NOT NULL,
+	logradouro varchar(50),
+	numero VARCHAR(10),
+	complemento VARCHAR(20),
+	bairro VARCHAR(30),
+	cep VARCHAR(9),
+	cidade VARCHAR(30),
+	estado VARCHAR(2)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('John', true, 'Rua das Poesias', '500', 'casa 3', 'Nova Vida', '06704220', 'Cotia', 'SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Brad', false, 'Rua dos Versos', '600', 'casa 2', 'Sapé', '06704221', 'Praia Grande', 'SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Joseph', true, 'Rua Jorge Rizzo', '700', 'casa 1', 'Mirizola', '06704222', 'Centro', 'SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Michael', false, 'Rua das Rimas', '800', 'apto 3', 'Suburbano', '06704223', 'Salvador', 'BA');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Selma', true, 'Rua Vicente', '900', 'apto 4', 'Coimbra', '06704224', 'Rio de Janeiro', 'RJ');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Mohammed', false, 'Rua 3', '1000', 'sobrado 1', 'Atalaia', '06704225', 'Lapa', 'SP');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Ben', true, 'Rua 5', '1100', 'sobrado 5', 'Turiguara', '06704226', 'Itajaí', 'SC');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Lucas', false, 'Rua dos Pinheiros', '1200', 'Entrada 2', 'Lajeado', '06704227', 'Bagé', 'RS');
+INSERT INTO pessoa (nome, ativo, logradouro, numero, complemento, bairro, cep, cidade, estado) values 
+('Ludmilla', true, 'Rua dos Porcos', '1300', 'Casa 1', 'Rosimary', '06704228', 'Manaus', 'AM');

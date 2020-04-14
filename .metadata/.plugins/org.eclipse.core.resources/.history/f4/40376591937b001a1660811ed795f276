@@ -1,0 +1,13 @@
+package com.algaworks.service;
+
+import org.springframework.stereotype.Service;
+
+import com.algaworks.model.Lancamento;
+
+@Service
+public class LancamentoService {
+
+	public Lancamento salvar(Lancamento lancamento) {
+		
+	}
+}
