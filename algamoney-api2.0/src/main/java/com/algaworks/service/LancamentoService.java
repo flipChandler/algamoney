@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 import com.algaworks.model.Lancamento;
 import com.algaworks.model.Pessoa;
 import com.algaworks.repository.LancamentoRepository;
-import com.algaworks.repository.PessoaRepository;
 import com.algaworks.service.exception.PessoaInexistenteOuInativaException;
 
 @Service
