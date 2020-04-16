@@ -4,6 +4,10 @@
 <item elementID="=BubbleSort/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586293256590_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586993387424_4" label="algamoney-api2" name="algamoney-api2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/algamoney-api2.0" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587001787467_5" label="algamoney-api4" name="algamoney-api4"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586293259027_2" label="Window Working Set" name="Aggregate for window 1586293259027"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1586433316721_3" label="Window Working Set" name="Aggregate for window 1586433316721"/>
 </workingSetManager>

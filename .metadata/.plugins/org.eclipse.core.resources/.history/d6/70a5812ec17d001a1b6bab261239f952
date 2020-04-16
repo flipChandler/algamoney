@@ -1,5 +1,0 @@
-package com.algaworks.repository.lancamento;
-
-public interface LancamentoRepositoryQuery {
-
-}

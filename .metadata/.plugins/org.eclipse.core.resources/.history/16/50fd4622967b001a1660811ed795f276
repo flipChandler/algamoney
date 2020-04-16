@@ -1,5 +1,0 @@
-package com.algaworks.service.exception;
-
-public class PessoaInexistentOouInativaException extends RuntimeException {
-
-}
