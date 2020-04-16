@@ -2569,3 +2569,108 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-04-16 10:25:56,086 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
 2020-04-16 10:25:56,096 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-04-16 10:25:56,096 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:03:08,631 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-16 11:03:49,006 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:0.0.2-SNAPSHOT @ D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\pom.xml.
+2020-04-16 11:03:49,829 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:03:49,834 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:03:49,845 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:03:49,849 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:03:49,849 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:03:52,602 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:03:52,605 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:03:52,607 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:03:52,621 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:03:52,622 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:05:10,815 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:0.0.2-SNAPSHOT @ D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\pom.xml.
+2020-04-16 11:05:13,247 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final.pom
+2020-04-16 11:05:13,504 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final.pom
+2020-04-16 11:05:13,849 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final.pom
+2020-04-16 11:05:14,216 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final.pom
+2020-04-16 11:05:14,532 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.pom
+2020-04-16 11:05:15,041 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.pom
+2020-04-16 11:05:15,203 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.pom
+2020-04-16 11:05:15,811 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.pom
+2020-04-16 11:05:15,966 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE.pom
+2020-04-16 11:05:16,098 [Worker-0: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE.pom
+2020-04-16 11:05:16,300 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final.jar
+2020-04-16 11:05:17,122 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final.jar
+2020-04-16 11:05:17,122 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar
+2020-04-16 11:05:17,122 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar
+2020-04-16 11:05:17,122 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE.jar
+2020-04-16 11:05:18,623 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final.jar
+2020-04-16 11:05:21,193 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final.jar
+2020-04-16 11:05:26,025 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE.jar
+2020-04-16 11:05:26,025 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE.jar
+2020-04-16 11:05:26,151 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE.jar
+2020-04-16 11:05:30,143 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:30,145 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:05:30,145 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:05:30,147 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:30,147 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:05:31,838 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final-sources.jar
+2020-04-16 11:05:31,956 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-java8/5.3.10.Final/hibernate-java8-5.3.10.Final-sources.jar
+2020-04-16 11:05:31,979 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-java8:5.3.10.Final
+2020-04-16 11:05:32,056 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:32,057 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:05:32,067 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:05:32,078 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:32,078 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:05:32,483 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2020-04-16 11:05:33,574 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1-sources.jar
+2020-04-16 11:05:33,592 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.commons:commons-lang3:3.8.1
+2020-04-16 11:05:34,092 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final-sources.jar
+2020-04-16 11:05:34,842 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/hibernate/hibernate-jpamodelgen/5.3.10.Final/hibernate-jpamodelgen-5.3.10.Final-sources.jar
+2020-04-16 11:05:34,858 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.hibernate:hibernate-jpamodelgen:5.3.10.Final
+2020-04-16 11:05:35,357 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:37,493 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:37,510 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-core:5.1.5.RELEASE
+2020-04-16 11:05:38,007 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:39,024 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-config/5.1.5.RELEASE/spring-security-config-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:39,042 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-config:5.1.5.RELEASE
+2020-04-16 11:05:39,539 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:40,278 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-web/5.1.5.RELEASE/spring-security-web-5.1.5.RELEASE-sources.jar
+2020-04-16 11:05:40,295 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.security:spring-security-web:5.1.5.RELEASE
+2020-04-16 11:05:40,791 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2020-04-16 11:05:43,328 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.11/commons-codec-1.11-sources.jar
+2020-04-16 11:05:43,380 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for commons-codec:commons-codec:1.11
+2020-04-16 11:05:43,799 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:43,799 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:05:43,800 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:05:43,802 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:05:43,802 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:06:01,348 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:06:01,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:06:01,349 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:06:01,351 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:06:01,351 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:08:55,447 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:08:55,447 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:08:55,448 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:08:55,457 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:08:55,457 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:11:45,637 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.algaworks.algamoney-api:algamoney-api:0.0.2-SNAPSHOT @ D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\pom.xml.
+2020-04-16 11:11:46,134 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:46,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:11:46,137 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:11:46,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:46,139 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:11:48,343 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:48,344 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:11:48,355 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:11:48,367 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:48,367 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:11:59,520 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:59,520 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:11:59,520 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-16 11:11:59,522 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:11:59,522 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:17:27,895 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:17:27,896 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:17:27,900 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:17:27,902 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:17:27,902 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
+2020-04-16 11:18:57,475 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:18:57,476 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-16 11:18:57,477 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 5 resources
+2020-04-16 11:18:57,479 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-16 11:18:57,479 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Felipe\Cursos\AlgaWorks\algamoney\algamoney-api2.0\src\test\resources
