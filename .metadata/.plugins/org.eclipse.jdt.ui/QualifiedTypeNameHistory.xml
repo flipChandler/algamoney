@@ -27,5 +27,10 @@
     <fullyQualifiedTypeName name="org.springframework.data.domain.PageImpl"/>
     <fullyQualifiedTypeName name="org.springframework.data.domain.Page"/>
     <fullyQualifiedTypeName name="org.springframework.security.oauth2.provider.token.store.JwtTokenStore"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="org.springframework.core.Ordered"/>
+    <fullyQualifiedTypeName name="javax.servlet.Filter"/>
     <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
+    <fullyQualifiedTypeName name="org.apache.catalina.util.ParameterMap"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
 </qualifiedTypeNameHistroy>
